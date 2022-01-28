@@ -1,2 +1,2 @@
-# Primeiro-reposit-rio---Aprendendo-automa-o-de-testes
+# Primeiro-reposit-rio---Aprendendo-automação-de-testes
 Utilizando selenium
